@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](http://letterror.com/assets/images/ltr.com_lettering/Letterror_Logootje_.svg)
+![](http://letterror.com/assets/images/big_no5_headline_masthead.svg)
 
 <!--
 **LettError/letterror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
